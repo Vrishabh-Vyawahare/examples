@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
   
-          <h1>Hello world</h1>
+          <h1>Welcome to new Features branch</h1>
     
     
     </div>
