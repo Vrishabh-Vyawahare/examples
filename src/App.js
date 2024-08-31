@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-          <h1>Git Demo</h1>
+          <h1>Git Project Demo</h1>
     </div>
   );
 }
